@@ -1,0 +1,4 @@
+ID	Name	gender	Mark
+1	张三	M	80
+2	李四	M 	65
+3	王五	M	60
